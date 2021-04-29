@@ -7,3 +7,20 @@ p
 {
     color: red;
 }
+.lien
+{
+    font-style: italic;
+}
+.background
+{
+    background-color: aqua;
+}
+.backgroudliste
+{
+    background-color: aquamarine;
+}
+.bordure
+{
+    border: 4px solid coral;
+    border-radius: 12px;
+}
